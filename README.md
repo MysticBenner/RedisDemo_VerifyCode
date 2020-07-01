@@ -1,2 +1,3 @@
-# RedisDemo_VerifyCode
-a new demo using Jedis to simulate the implementation of Verification Code
+## RedisDemo_VerifyCode
+运用Jedis实现的一个简单验证码功能，主要是利用Redis存储随机生成的验证码，并在对前端填写的验证码和随机生成的验证码进行对照，返回相应的结果。
+
